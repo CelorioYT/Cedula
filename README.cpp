@@ -1,5 +1,5 @@
 # Cedula
-Validación de una cedula a toda inviolable
+Validación de una cedula a toda prueba casi inviolable.  
 #include <iostream>
 #include <string.h>
 
